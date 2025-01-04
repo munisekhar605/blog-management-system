@@ -1,34 +1,4 @@
-# Project Setup
 
-```bash
-npm install
-```
-
-## Compile and Run the Project
-
-```bash
-# Development
-npm run start
-
-# Watch mode
-npm run start:dev
-
-# Production mode
-npm run start:prod
-```
-
-## Run Tests
-
-```bash
-# Unit tests
-npm run test
-
-# End-to-End (e2e) tests
-npm run test:e2e
-
-# Test coverage
-npm run test:cov
-```
 
 ## GraphQL Endpoint
 
